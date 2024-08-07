@@ -20,7 +20,7 @@ namespace StoreApp.Entities
         }
         public double SubTotal()
         {
-            return Price * Quantitiy;
+            return Price * Quantity;
         }
 
         public override string ToString()

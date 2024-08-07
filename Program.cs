@@ -22,6 +22,7 @@ namespace StoreApp
             Console.WriteLine("Enter order data: ");
             Console.Write("How many items to this order: ");
             int n = int.Parse(Console.ReadLine());
+            Order order = new Order(DateTime.Now, 0, client);
 
             for (int i = 1; i <= n; i++)
             {
@@ -31,12 +32,18 @@ namespace StoreApp
                 string prodName = Console.ReadLine();
                 Console.Write("Product price: ");
                 double prodPrice = double.Parse(Console.ReadLine());
+
+                Product product = new Product(prodName, prodPrice);
+
                 Console.Write("Quantity: ");
                 int quantity = int.Parse(Console.ReadLine());
 
-
+                OrderItem orderItem = new OrderItem(quantity, prodPrice, product);
+                order.AddItem(orderItem);
             }
-
+            Console.WriteLine();
+            Console.WriteLine("Order sumary: ");
+            Console.WriteLine(order);
         }
     }
 }

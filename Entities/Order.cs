@@ -9,7 +9,7 @@ namespace StoreApp.Entities
 {
     internal class Order
     {
-        public DateTime Moment { get; }
+        public DateTime Moment { get; set; }
         public OrderStatus Status { get; set; }
         public List<OrderItem> Item { get; set; } = new List<OrderItem>();
         public Client Client { get; set; }

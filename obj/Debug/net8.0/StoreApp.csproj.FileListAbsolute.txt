@@ -1,0 +1,15 @@
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\bin\Debug\net8.0\StoreApp.exe
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\bin\Debug\net8.0\StoreApp.deps.json
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\bin\Debug\net8.0\StoreApp.runtimeconfig.json
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\bin\Debug\net8.0\StoreApp.dll
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\bin\Debug\net8.0\StoreApp.pdb
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfoInputs.cache
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.AssemblyInfo.cs
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.sourcelink.json
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.dll
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\refint\StoreApp.dll
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.pdb
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\StoreApp.genruntimeconfig.cache
+C:\Users\feron\Desktop\C#\StoreApp\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll
